@@ -49,8 +49,8 @@ Tkinter (Standard Python GUI Library)
 📊 BMI Categories Used
 
 BMI Range	Category
-
-BMI < 18.5	Underweight
-18.5 – 24.9	Healthy Weight
-25 – 29.9	Overweight
+<br>
+BMI < 18.5	Underweight<br>
+18.5 – 24.9	Healthy Weight<br>
+25 – 29.9	Overweight<br>
 30 and above	Obesity
